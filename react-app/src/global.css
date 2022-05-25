@@ -1,0 +1,19 @@
+.title-row {
+    height: 10%;
+}
+
+.content-row {
+    height: 90%;
+}
+
+#editor {
+    height: 85%;
+}
+
+#preview {
+    height: 85%;
+}
+
+textarea {
+    resize: none;
+}
