@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2d3c9152.css","mappings":"AAAA,WACI,UACJ,CAEA,aACI,UACJ,CAMA,iBACI,UACJ,CAEA,SACI,WACJ","sources":["global.css"],"sourcesContent":[".title-row {\n    height: 10%;\n}\n\n.content-row {\n    height: 90%;\n}\n\n#editor {\n    height: 85%;\n}\n\n#preview {\n    height: 85%;\n}\n\ntextarea {\n    resize: none;\n}"],"names":[],"sourceRoot":""}
